@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andhikagg"><img src="https://count.getloli.com/get/@sanzzyqoe?theme=rule34" alt="visitor"></a>
+  <a href="https://github.com/sanzzy09"><img src="https://count.getloli.com/get/@sanzzy09?theme=rule34" alt="visitor"></a>
 </p>
