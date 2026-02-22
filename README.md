@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a href="https://www.instagram.com/sanzzy09_/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="mailto:mygithubakun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  <a href="mailto:sanzzydev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
   <a href="https://github.com/sanzzy09"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> 
 </p>
 
